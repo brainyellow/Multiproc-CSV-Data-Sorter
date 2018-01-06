@@ -1,2 +1,2 @@
-# Multiproc-CSV-Data-Sorter
-implemented multiproc in imdb movie sorter
+# CS214-Project-1
+Multi process sorter
